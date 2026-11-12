@@ -1,0 +1,13 @@
+{
+    "embedding_dimension": 8,
+    "transformes_num": 4,
+    "attention_heads": 2,
+    "attention_dropout": 0.15,
+    "feed_foward_dropout": 0.15,
+    "U_values": 4,
+    "cases_values": 16,
+    "sample_size_dims": 32,
+    "learning_rate": 0.00031803232307224766,
+    "weight_decay": 0.00018207626239658746,
+    "batch_size": 32
+}
